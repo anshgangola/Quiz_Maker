@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01",
+    "question": "What is the correct command to create a new React project?",
+    "options": [
+      "npx create-react-app myReactApp",
+      "npx create-react-app",
+      "npm create-react-app myReactApp",
+      "npm create-react-app"
+    ],
+    "answer": "npx create-react-app myReactApp"
+  },
+  {
+    "id": "02",
+    "question": "What does myReactApp refer to in the following command?",
+    "options": [
+      "The type of app to create",
+      "The directory to create the new app in",
+      "The name you want to use for the new app",
+      "A reference to an existing app"
+    ],
+    "answer": "The name you want to use for the new app"
+  },
+  {
+    "id": "03",
+    "question": "What command is used to start the React local development server?",
+    "options": ["npm start", "npm build", "npm run dev", "npm serve"],
+    "answer": "npm start"
+  },
+  {
+    "id": "04",
+    "question": "What is the default local host port that a React development server uses?",
+    "options": ["3000", "3500", "5000", "7000"],
+    "answer": "3000"
+  },
+  {
+    "id": "05",
+    "question": "To develop and run React code, Node.js is required.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "id": "06",
+    "question": "What is the children prop?",
+    "options": [
+      "A property that lets you set an object as a property",
+      "A property that lets you nest components in other components",
+      "A property that adds child values to state",
+      "A property that lets you pass data to child components"
+    ],
+    "answer": "A property that lets you nest components in other components"
+  },
+  {
+    "id": "07",
+    "question": "How many numbers of elements a valid react component can return?",
+    "options": ["1", "2", "3", "Unlimited"],
+    "answer": "1"
+  },
+  {
+    "id": "08",
+    "question": "What is the declarative way to render a dynamic list of components based on values in an array?",
+    "options": [
+      "Using the reduce array method",
+      "Using the <Each /> component",
+      "Using the Array.map() method",
+      "With a for/while loop"
+    ],
+    "answer": "Using the Array.map() method"
+  },
+  {
+    "id": "09",
+    "question": "What is a state in React?",
+    "options": [
+      "A permanent storage.",
+      "Internal storage of the component.",
+      "External storage of the component.",
+      "None of the above."
+    ],
+    "answer": "Internal storage of the component."
+  },
+  {
+    "id": "10",
+    "question": "What are the two ways to handle data in React?",
+    "options": [
+      "State & Props",
+      "Services & Components",
+      "State & Services",
+      "State & Component"
+    ],
+    "answer": "State & Props"
+  }
+]
